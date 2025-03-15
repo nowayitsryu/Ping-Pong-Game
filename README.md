@@ -1,0 +1,1 @@
+Welcome to the ping-pong game where in this game, you will have two platforms and a ball. Your goal and make sure it doesn't collide with the wall by moving the platforms. These platforms can be moved by pressing on the W/S key for the left platform and arrow up/arrow down key to move the right platform.
